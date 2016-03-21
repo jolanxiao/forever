@@ -1,2 +1,2 @@
 # life.github.io
-jolan博客
+jolanxiao的博客
